@@ -1,7 +1,7 @@
 class BakeryItem:
     def _init_(self, name, price, quantity):
         self.name = name
-        self.price = price
+        self.price = 
         self.quantity = quantity
 
     def _str_(self):
