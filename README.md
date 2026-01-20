@@ -52,7 +52,7 @@ This project was built to:
 
 ## 📌 Future Enhancements
 
-- Add order or contact from
+- Add order or contact form
 - Add animations and effects  
 - Connect with backend for online orders  
 
