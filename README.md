@@ -17,7 +17,7 @@ This project is designed as a beginner-friendly web development project.
 ## 🛠️ Technologies Used
 
 - HTML  
-- 
+- CSS
 - JavaScript  
 
 ---
