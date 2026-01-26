@@ -8,7 +8,7 @@ class BakeryItem:
         return f"{self.name} - ${self.price:.2f} ({self.quantity} available)"
 
 class BakeryManagement:
-    def _init_():
+    def _init_(self):
         self.inventory = []
 
     def add_item(self, name, price, quantity):
