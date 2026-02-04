@@ -1,4 +1,4 @@
-# 🍰 Sweet Treats Bakery using html ,css and javascipt
+# 🍰 Sweet Treats Bakery 
 
 Sweet Treats Bakery is a simple bakery shop website created to showcase bakery items and provide basic information about the shop.  
 This project is designed as a beginner-friendly web development project.
