@@ -14,7 +14,7 @@ This project is designed as a beginner-friendly web development project.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies 
 
 - HTML  
 - CSS
