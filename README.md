@@ -7,7 +7,7 @@ This project is designed as a beginner-friendly web development project.
 
 ## 📌 Features
 
-- Home page with bakery introduction 
+- Home page with bakery introduction  Nnd it is very important
 - Display of bakery items (cakes, pastries, breads, etc.)
 - Clean and simple user interface
 - Responsive layout for better vision
